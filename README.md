@@ -36,8 +36,4 @@ This project demonstrates a real-time **patient vitals monitoring system** using
   },
   "location": "Ward-7"
 }
- ## 🧪 Sample Output 
-{
-  "message": "Recorded successfully",
-  "reading_id": "PT001-20250728170310"
-}
+
